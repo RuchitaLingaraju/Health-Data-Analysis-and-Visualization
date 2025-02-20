@@ -43,7 +43,6 @@ pip install pandas numpy matplotlib seaborn
 │── 📄 README.md                   # Project documentation
 │── 📄 Health_Data_Analysis.ipynb   # Jupyter Notebook for EDA
 │── 📁 data/                        # Directory for dataset (if applicable)
-│── 📁 results/                     # Directory for output visualizations
 │── 📄 Health Data Analysis Report.pdf  # Research Report
 ```
 
